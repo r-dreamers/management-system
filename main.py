@@ -5,7 +5,8 @@ class Animal:
         self.eat = e
 
     def Show_info(self):
-        print(f"Color: {self.color} \nEat: {self.eat}")    
+        print(f"Color: {self.color} ")
+        print(f"Eat: {self.eat}")    
 
 class Pet:
     def __init__(self,o):
@@ -27,4 +28,4 @@ class Dog(Pet,Animal):
         
         
 dog1 = Dog("tommy",'Black','meat','momo')
-dog1.Show_info()
+
