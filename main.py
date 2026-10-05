@@ -28,4 +28,6 @@ class Dog(Pet,Animal):
         
         
 dog1 = Dog("tommy",'Black','meat','momo')
+dog2 = Dog("tom",'Black','meat','momo')
+
 
