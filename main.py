@@ -31,3 +31,6 @@ dog1 = Dog("tommy",'Black','meat','momo')
 dog2 = Dog("tom",'Black','meat','momo')
 dog3 = Dog("meow",'Black','meat','momo')
 
+dog4 = Dog("tom",'Black','meat','momo')
+dog5 = Dog("meow",'Black','meat','momo')
+
